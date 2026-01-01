@@ -1,15 +1,20 @@
-# All Google Fonts
+# Font and Asset Collection
 
-This folder contains all [Google Fonts](https://fonts.google.com/) as of November 2025.
+This repository contains a curated collection of TrueType Fonts (`.ttf`) and Scalable Vector Graphics (`.svg`) assets.
 
-## Number of Fonts
+## Contents
 
-There are 1894 font families in this collection. This folder contains 4157 individual font files (`.ttf`, `.otf`, etc.).
+The repository primarily consists of:
 
-## Why?
+*   **Fonts**: A wide variety of typefaces including:
+    *   Serif and Sans-Serif fonts (e.g., *Barlow*, *Fira Sans*, *IBM Plex Sans*)
+    *   Display and Handwriting fonts (e.g., *Birthstone*, *WindSong*, *Modak*)
+    *   Monospace fonts (e.g., *Inconsolata*, *Intel One Mono*)
+    *   International scripts (e.g., *Noto Sans Gujarati*, *Zen Kaku Gothic*)
+*   **Graphics**: SVG files for various design elements (e.g., thumbnails, diagrams).
 
-To provide a simple, no-nonsense download of all Google Fonts without the extra files and metadata from the official GitHub repository.
+## Usage
 
-## How to use
+These assets are provided in their raw format. You can download individual files or clone the repository to access the entire collection for use in your design or development projects.
 
-Download this folder and install the fonts you need.
+Please check the individual licenses for each font (typically SIL Open Font License or Apache License) before commercial use, as they are not explicitly documented in this root directory.
