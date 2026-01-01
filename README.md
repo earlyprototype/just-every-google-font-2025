@@ -1,20 +1,15 @@
-# Font and Asset Collection
+# Google Fonts Collection
 
-This repository contains a curated collection of TrueType Fonts (`.ttf`) and Scalable Vector Graphics (`.svg`) assets.
+This repository contains a collection of open source fonts from [Google Fonts](https://fonts.google.com/).
 
 ## Contents
 
-The repository primarily consists of:
-
-*   **Fonts**: A wide variety of typefaces including:
-    *   Serif and Sans-Serif fonts (e.g., *Barlow*, *Fira Sans*, *IBM Plex Sans*)
-    *   Display and Handwriting fonts (e.g., *Birthstone*, *WindSong*, *Modak*)
-    *   Monospace fonts (e.g., *Inconsolata*, *Intel One Mono*)
-    *   International scripts (e.g., *Noto Sans Gujarati*, *Zen Kaku Gothic*)
-*   **Graphics**: SVG files for various design elements (e.g., thumbnails, diagrams).
+*   **Google Fonts**: A wide variety of typefaces (e.g., *Barlow*, *Fira Sans*, *IBM Plex Sans*, *Inconsolata*).
+    *   This collection aims to provide a simple download of Google Fonts.
+*   **Assets**: Scalable Vector Graphics (`.svg`) included in the repository.
 
 ## Usage
 
-These assets are provided in their raw format. You can download individual files or clone the repository to access the entire collection for use in your design or development projects.
+You can download individual files or clone the repository to access the fonts and assets.
 
-Please check the individual licenses for each font (typically SIL Open Font License or Apache License) before commercial use, as they are not explicitly documented in this root directory.
+Please check [Google Fonts](https://fonts.google.com/) for specific license information (typically SIL Open Font License or Apache License).
